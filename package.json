@@ -1,0 +1,20 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "redis.js",
+  "dependencies": {
+    "async": "^2.0.1",
+    "cacheman-redis": "^1.1.2",
+    "jsonfile": "^2.3.1",
+    "lodash": "^4.14.2",
+    "moment": "^2.14.1",
+    "redis": "^2.6.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
